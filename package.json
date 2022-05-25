@@ -1,12 +1,12 @@
 {
-    "name": "ads-horizon-extended-blue",
+    "name": "sqlops-horizon-extended-blue",
     "displayName": "Horizon extended blue",
     "description": "Horizon extended blue for Azure Data Studio",
     "version": "0.1.0",
     "publisher": "VolodymyrStorozhuk",
     "icon": "logo.png",
 	"author": {
-		"name": "Volodymyr Storozhuk",
+	    "name": "Volodymyr Storozhuk",
 		"email": "volodymyr.storozhuk@hotmail.com"
 	},
     "repository": {
@@ -14,7 +14,7 @@
         "url": "https://github.com/Volodymyr-Storozhuk/azuredatastudio-horizon-extended-blue"
     },
     "engines": {
-        "vscode": "^1.30.0",
+        "vscode": "^1.60.0",
         "sqlops": "*"
     },
     "categories": [
