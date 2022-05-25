@@ -6,9 +6,15 @@
 # Azure Data Studio Horizon Extended blue theme
 Azure Data Studio Horizon Extended blue theme
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/VolodymyrStorozhuk.azuredatastudio-horizon-extended-blue)
+![Project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
 
 <div align="left">
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/michael-wolfenden/sqlops-theme-onedark/blob/master/LICENSE.md) file for details
+
+## Changelog
 
 Update [CHANGELOG.md](https://github.com/Volodymyr-Storozhuk/azuredatastudio-horizon-extended-blue/blob/main/CHANGELOG.md) + commit the changes.
 
