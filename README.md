@@ -16,7 +16,7 @@ Coming soon file `Extensions: Install from VSIX...`
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/michael-wolfenden/sqlops-theme-onedark/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Volodymyr-Storozhuk/azuredatastudio-horizon-extended-blue/blob/main/LICENSE.md) file for details
 
 ## Changelog
 
