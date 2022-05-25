@@ -10,6 +10,10 @@ Azure Data Studio Horizon Extended blue theme
 
 <div align="left">
 
+## Installation
+
+Coming soon file `Extensions: Install from VSIX...`
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/michael-wolfenden/sqlops-theme-onedark/blob/master/LICENSE.md) file for details
