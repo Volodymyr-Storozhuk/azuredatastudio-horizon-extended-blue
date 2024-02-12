@@ -12,6 +12,7 @@
         "textLink.foreground": "#2A7BCF",
         "button.background": "#2A7BCF",
         "button.hoverBackground": "#3697ff",
+        "button.border": "#2E303E",
         "dropdown.background": "#2E303E",
         "dropdown.listBackground": "#2E303E",
         "input.background": "#2E303E",

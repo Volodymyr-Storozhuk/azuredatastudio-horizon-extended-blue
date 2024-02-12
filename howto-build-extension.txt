@@ -1,0 +1,29 @@
+1. Встановити node.js
+2. Встановити vsce
+
+> npm install -g vsce
+npm WARN deprecated vsce@2.15.0: vsce has been renamed to @vscode/vsce. Install using @vscode/vsce instead.
+
+added 112 packages in 5s
+
+36 packages are looking for funding
+  run `npm fund` for details
+npm notice
+npm notice New minor version of npm available! 10.2.4 -> 10.4.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.4.0
+npm notice Run npm install -g npm@10.4.0 to update!
+npm notice
+
+> npm install -g npm@10.4.0
+
+added 1 package in 1s
+
+24 packages are looking for funding
+  run `npm fund` for details
+
+3. Скомпілювати розширення
+
+> vsce package
+ DONE  Packaged: E:\git\theme\azuredatastudio-horizon-extended-blue\sqlops-horizon-extended-blue-0.1.1.vsix (9 files, 28.79KB)
+
+
