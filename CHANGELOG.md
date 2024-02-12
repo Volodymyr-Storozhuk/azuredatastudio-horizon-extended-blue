@@ -4,4 +4,9 @@ All changes I added to my theme for Azure Data Studio "Horizon extended Blue the
 
 ## [0.1.0]
 
-- Initial release
+- Initial release.
+
+## [0.1.1]
+
+- Fixed the background of the buttons.
+
